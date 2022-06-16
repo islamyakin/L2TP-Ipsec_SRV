@@ -10,7 +10,7 @@ sh installervpn.sh
 # Menambah User
 Download script untuk menambah user vpnuser.sh
 ```
-wget -O vpnuser.sh https://raw.githubusercontent.com/hwdsl2/setup-ipsec-vpn/master/extras/add_vpn_user.sh	
+wget -O vpnuser.sh https://raw.githubusercontent.com/islamyakin/L2TP-Ipsec_SRV/main/vpnuser.sh
 ```
 Jalankan scriptnya disertai dengan username dan password yang mau dibuat.
 ```
