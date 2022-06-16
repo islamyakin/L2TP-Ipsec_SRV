@@ -1,3 +1,5 @@
 # L2TP/IPsec Server on Ubuntu 20.04
-Untuk memudahkan instalasi dan konfigurasi L2TP/IPsec VPN server kita gunakan script installer vpnsetup.sh dari  di GitHub.
+Untuk memudahkan instalasi dan konfigurasi L2TP/IPsec VPN server kita gunakan script installer vpnsetupservera.sh dari https://github.com/islamyakin/L2TP-Ipsec_SRV/ di GitHub.
 Download installernya.
+1. wget https://raw.githubusercontent.com/islamyakin/L2TP-Ipsec_SRV/main/vpnsetupservera.sh -O installervpn.sh
+2. sh installervpn.sh	
